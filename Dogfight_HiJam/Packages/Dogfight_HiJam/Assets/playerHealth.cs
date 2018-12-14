@@ -44,10 +44,10 @@ public class playerHealth : MonoBehaviour {
             isDead = true;
         }
         
-        if (Input.GetKeyDown(KeyCode.I))
-        {
-            currentHealth--;
-        }
+        //if (Input.GetKeyDown(KeyCode.I))
+        //{
+        //    currentHealth--;
+        //}
 
         if (isDead)
         {

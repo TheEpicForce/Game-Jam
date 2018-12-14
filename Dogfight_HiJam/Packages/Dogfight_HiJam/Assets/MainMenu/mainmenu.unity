@@ -180,7 +180,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: A will turn left D will turn right, Destroy enemies! p.s. don't go to far!
+  m_Text: A = left D = right, S = Up W = Down. Goal = Destroy enemies! p.s. Avoid
+    Rocks!
 --- !u!222 &36062794
 CanvasRenderer:
   m_ObjectHideFlags: 0
