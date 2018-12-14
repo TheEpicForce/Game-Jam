@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c3e13d0258bfd941aa8f96c16260e04
+timeCreated: 1537041620
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RGB2D: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - SpitBall: {fileID: 1981412383155290, guid: 7148b0238d661a242aa312a582fefc28, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
